@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Ian Mutugi]
 
-<!--
-**hunted104/hunted104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [Computer Programming languages"].
+- I'm interested in [your interests, e.g., "and web development"].
+- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- "Python"
+- "HTML/CSS"
+- "java script"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+-N/A
+## How to Reach Me
+- Email: mutugian25@gmail.com
