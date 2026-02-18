@@ -7,3 +7,7 @@ For "***My Learning Goals***:
 **Professional Advancement**: "Develop leadership and project management skills to take on greater responsibilities in my role."
 **Creative Pursuits:** "Explore and develop my artistic skills in digital illustration to create compelling visual content."
 '''
+https://www.w3schools.com/git/
+**Things i want to learn from GitHub and Git**
+1. softawre development
+2. 
