@@ -18,13 +18,12 @@ https://www.w3schools.com/git/
 3. Push the commit to the remote repository
 ***Representation of the things i want to learn***
 
-Tool     |   Purpose                              |   link
-------------------------------------------------------------
-GIT      |  Tracking code changes         |  Git Reference Manual  
-GitHub   |  Collaboration                 |GitHub Docs   
-         |  and hosting Git repositories  |
-Python   | General purpose development    |Python Docs
-VS code  |lightweight                     |VS code Docs
+| Tool    | Purpose                          | Link                                                                 |
+|---------|----------------------------------|----------------------------------------------------------------------|
+| GIT     | Tracking code changes            | [Git Reference Manual](https://git-scm.com/doc)                      |
+| GitHub  | Collaboration and hosting repos  | [GitHub Docs](https://docs.github.com/)                             |
+| Python  | General purpose development      | [Python Docs](https://docs.python.org/3/)                           |
+| VS Code | Lightweight code editor          | [VS Code Docs](https://code.visualstudio.com/docs)                  |
 
 _**Task list With the learning goals by the end of the season**_
 [x] Github and Git introduction
@@ -53,6 +52,7 @@ Data analysis
 
 _**Fun Fact about me**_
 Hobby   |	Why I Love It
+-------------------------------------------------------------------
 Swimming|	Relaxes my entire body
 Coding  |         Builds problem-solving skills
 Cooking |	Keeps my mind free from the many daily thoughts 
