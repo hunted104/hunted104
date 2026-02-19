@@ -8,6 +8,35 @@ For "***My Learning Goals***:
 **Creative Pursuits:** "Explore and develop my artistic skills in digital illustration to create compelling visual content."
 '''
 https://www.w3schools.com/git/
-**Things i want to learn from GitHub and Git**
-1. softawre development
-2. 
+***Unordered List: 3 Things I Want to Learn***
+-Advanced data visualization techniques in Python
+-How to collaborate effectively on GitHub projects
+-How to carry out coding using JS, Python and other programming languages to enhance problem solving.
+**Ordered List: Steps to make a commit in GIT**
+1. Stage changes using GIT add <file>
+2. Commit the changes with a descriptive message
+3. Push the commit to the remote repository
+***Representation of the things i want to learn***
+
+Tool     |   Purpose                              |   link
+------------------------------------------------------------
+GIT      |  Tracking code changes         |  Git Reference Manual  
+GitHub   |  Collaboration                 |GitHub Docs   
+         |  and hosting Git repositories  |
+Python   | General purpose development    |Python Docs
+VS code  |lightweight                     |VS code Docs
+
+_**Task list With the learning goals by the end of the season**_
+[x] Github and Git introduction
+[x] Create ReadMe profile
+[x] Create a repository
+[ ] Pulling repositories
+[ ] Github workflow
+
+Example of a code block 
+# Formular: Interest= (principle * rate *time)
+principle=120000     #shillings
+rate=26              # percent
+time= 7              # years
+Interest= (principle * rate *time)
+print(Simple interest:"interest)
