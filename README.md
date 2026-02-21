@@ -12,6 +12,7 @@
 - "java script"
 
 ## Current Projects
--N/A
+-To understand defrent programming languages
+-To understand how to carry out personal activities via Git and GitHub
 ## How to Reach Me
 - Email: mutugian25@gmail.com
